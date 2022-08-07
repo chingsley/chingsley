@@ -5,7 +5,7 @@
    I'm Kingsley Eneja
 </h3>
 <h3 align="center"> 
-   Hobbies:  ⚽️ 👨🏾‍💻🎧,🏀 
+   Hobbies:  ⚽️ 👨🏾‍💻🎧, 
 </h3>
 <br/>
  <div align="center"> 
