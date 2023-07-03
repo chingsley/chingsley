@@ -20,12 +20,6 @@
     </a> 
   </div>
 <br/>
-<div align="center">
-      <a href="https://github.com/chingsley">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chingsley&show_icons=true&theme=merko&count_private=true" alt="chingsley's github stats" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingsley&theme=merko&layout=compact" alt="chingsley's github top languages" />
-      </a>
-  </div>
 <br/>
 
 <h3 align="center">
